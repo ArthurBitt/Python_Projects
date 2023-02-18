@@ -1,0 +1,87 @@
+
+roteiro
+
+Semana 1 e 2
+
+Introdução ao Python: Variáveis, operadores, tipos de dados, estruturas de controle de fluxo, funções e módulos.
+Trabalhando com arquivos: manipulação de arquivos de texto, CSV e JSON.
+Programação orientada a objetos em Python: classes, objetos, herança e polimorfismo.
+Recursos recomendados:
+
+Curso "Introdução à Programação com Python" da Codecademy
+Livro "Python for Data Analysis" de Wes McKinney
+Livro "Learning Python" de Mark Lutz
+Semana 3 e 4
+
+Bibliotecas para ciência de dados em Python: NumPy, Pandas, Matplotlib e Seaborn.
+Trabalhando com dados em Python: manipulação, análise, visualização e modelagem de dados.
+Algoritmos de aprendizado de máquina em Python: Regressão linear, Árvores de decisão, K-Means e Redes neurais.
+Recursos recomendados:
+
+Curso "Data Manipulation with Pandas" da DataCamp
+Livro "Python Data Science Handbook" de Jake VanderPlas
+Curso "Machine Learning A-Z" da Udemy
+Semana 5 e 6
+
+Desenvolvimento Web com Python: Flask e Django.
+Automatização de tarefas em Python: criação de scripts, automação de tarefas, web scraping e web crawling.
+Redes e sockets em Python: conexão, transferência e gerenciamento de dados em redes.
+Recursos recomendados:
+
+Curso "Flask Web Development with Python Tutorial" do Corey Schafer no YouTube
+Curso "Python for Everybody" da Universidade de Michigan no Coursera
+Livro "Black Hat Python" de Justin Seitz
+Semana 7 e 8
+
+Segurança da informação em Python: criptografia, segurança de rede e análise de vulnerabilidades.
+Desenvolvimento de jogos em Python: Pygame e PyOpenGL.
+Desenvolvimento de aplicativos de desktop em Python: PyQt e wxPython.
+Recursos recomendados:
+
+Livro "Violent Python" de TJ O'Connor
+Curso "Python Game Development" da Udemy
+Livro "Rapid GUI Programming with Python and Qt" de Mark Summerfield
+
+
+tópicos
+
+Semana 1 e 2: Introdução ao Python
+
+Variáveis, operadores e tipos de dados em Python.
+Estruturas de controle de fluxo em Python.
+Funções e módulos em Python.
+Recursos recomendados:
+
+Curso "Introdução à Programação com Python" da Codecademy
+Livro "Python for Data Analysis" de Wes McKinney
+Livro "Learning Python" de Mark Lutz
+Semana 3 e 4: Trabalhando com dados em Python
+
+Bibliotecas para ciência de dados em Python: NumPy, Pandas, Matplotlib e Seaborn.
+Manipulação, análise, visualização e modelagem de dados em Python.
+Algoritmos de aprendizado de máquina em Python: Regressão linear, Árvores de decisão, K-Means e Redes neurais.
+Recursos recomendados:
+
+Curso "Data Manipulation with Pandas" da DataCamp
+Livro "Python Data Science Handbook" de Jake VanderPlas
+Curso "Machine Learning A-Z" da Udemy
+Semana 5 e 6: Desenvolvimento Web com Python
+
+Flask e Django para desenvolvimento web com Python.
+HTML, CSS e JavaScript para construção de páginas web.
+Uso de bancos de dados em aplicações web.
+Recursos recomendados:
+
+Curso "Flask Web Development with Python Tutorial" do Corey Schafer no YouTube
+Curso "Web Development with Django" da Codecademy
+Livro "Python and Django Full Stack Web Developer Bootcamp" de Jose Portilla
+Semana 7 e 8: Tópicos avançados em Python
+
+Automação de tarefas em Python: criação de scripts, web scraping e web crawling.
+Redes e sockets em Python: conexão, transferência e gerenciamento de dados em redes.
+Segurança da informação em Python: criptografia, segurança de rede e análise de vulnerabilidades.
+Recursos recomendados:
+
+Livro "Black Hat Python" de Justin Seitz
+Curso "Python for Everybody" da Universidade de Michigan no Coursera
+Livro "Violent Python" de TJ O'Connor
